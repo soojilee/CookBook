@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/soo-ji/.gradle/caches/modules-2/files-2.1/com.googlecode.mp4parser/isoparser/1.0.5.4/232e5130b709e6cc2ac4c4e5c5212a89929ab592/isoparser-1.0.5.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="232e5130b709e6cc2ac4c4e5c5212a89929ab592">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/isoparser-1.0.5.4_7f9694b4654d98a9e28ba60c6f49c285899d992d.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_49193d1e660479c0aa45a0848ad278392cdd46c2.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_946f63678f07baf8ff502711ff67217f1fa692bd.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_70501191a29da69fa3695b3ab6f6980f2ff2d2fc.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58d0010cb4373696cfdc5894c4b23649af58ed18">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_45be36c7fa4af9ee5bc5d6f07e7e0dc1d57d91a8.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_44df83a713cc4e9d32abec226beaa156ffad86ce.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_d0ddc0e51f5660fe2e9134a8127a204bb78fb74f.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_213aa3009ac854b40790e72b8608c66764bae9db.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/aspectjrt-1.8.2_050cb06b75683db244f22071997163fbce39cad1.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/libs/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b54cf0400e2248d6c133c7b0a77dea1be09978cc">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_cc35cf3e36641eecbd7a6b67ac91fff7d75f7de4.jar" />
+    </item>
+    <item
+        jar="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3a3189a228a65d03b3ea92a1b58a2b44bc7366e">
+        <dex dex="/Users/soo-ji/AndroidStudioProjects/CookBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.2.0_48549951139eacea391b1560ad4e61a7b9d1110f.jar" />
+    </item>
+
+</items>

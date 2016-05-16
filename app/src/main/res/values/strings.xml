@@ -1,4 +1,31 @@
 <resources>
     <string name="app_name">CookBook</string>
-    <string name="action_settings">Settings</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="register">Register</string>
+
+    <!-- Strings for profile fragment -->
+    <string name="bio">Hi, Nice to meet you. How are you? Im fine thank you and you?</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_password_again">Confirm Password</string>
+    <string name="request_permission">\"Need camera to function\"</string>
+    <string name="camera_error">\"null pointer exception. Camera2API is not supported\"</string>
+
+    <!-- String fro camera2 video fragment -->
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="description_info">Info</string>
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
+
 </resources>

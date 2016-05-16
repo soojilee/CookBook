@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/tabsContainer"-->
+        <!--android:background="@color/lightBlue"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_alignParentBottom="true">-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/tabHome"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="50dp"-->
+            <!--android:src="@drawable/home" />-->
+
+
+        <!--<ImageView-->
+            <!--android:id="@+id/tabSearch"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="50dp"-->
+
+            <!--android:src="@drawable/search" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/tabCamera"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="50dp"-->
+
+            <!--android:src="@drawable/camera" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/tabNoti"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="50dp"-->
+
+            <!--android:src="@drawable/notification" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/tabPerson"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="50dp"-->
+            <!--android:src="@drawable/person" />-->
+    <!--</LinearLayout>-->
+    <TabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:id="@+id/linearLayout1"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@android:id/tabs">
+            </TabWidget>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@android:id/tabcontent">
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_above="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false" />
+
+</RelativeLayout>
